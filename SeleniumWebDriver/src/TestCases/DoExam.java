@@ -1,12 +1,8 @@
 package TestCases;
 
-import java.util.List;
-import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import com.relevantcodes.extentreports.ExtentReports;
-import com.relevantcodes.extentreports.LogStatus;
 import EventsControl.EventsBehavior;
 import EventsControl.ReportResults;
 
